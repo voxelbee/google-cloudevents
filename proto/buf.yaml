@@ -1,0 +1,5 @@
+version: v1
+name: buf.build/voxelbee/google-cloudevents
+deps:
+  - buf.build/voxelbee/googleapis
+  - buf.build/googleapis/googleapis
